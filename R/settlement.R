@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ------ Settlement Point Data
 
 settlement_point <- function() {
@@ -11,3 +12,11 @@ settlement_area <- function() {
   data <- read.csv("https://gis-a.ie.ehealthafrica.org/geoserver/eHA_db/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=eHA_db:settlement_areas&outputFormat=csv")
   print(data)
 }
+=======
+# ------ Settlement Data
+
+settlement <- function() {
+  data <- read.csv("https://gis-a.ie.ehealthafrica.org/geoserver/eHA_db/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=eHA_db:sv_settlements&outputFormat=csv")
+  print(data)
+}
+>>>>>>> 9dbe9f718258044bc888dce4d89004920d0c4b13
