@@ -1,4 +1,4 @@
-# r_package_nigeria_master_data
+# nigeriadata
 An open source R package for Nigeria Spatial and Non-spatial data
 
 As part of my committment to open data, we have decided to create this package so that all R Users will have access to data
