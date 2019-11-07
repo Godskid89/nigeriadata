@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1571825309583.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2819888482",
+    "id" : "8816BD5E",
+    "lastKnownWriteTime" : 1573116104,
+    "last_content_update" : 1573116104005,
+    "path" : "~/nigeriadata/R/admin_boundaries.R",
+    "project_path" : "R/admin_boundaries.R",
+    "properties" : {
+        "cursorPosition" : "0,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
