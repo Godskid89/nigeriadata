@@ -1,0 +1,6 @@
+# ----- State Population Estimate Data
+state_population_estimate <- function() {
+  #Pull data from eHealth Africa geoserver
+  data <- read.csv("https://gis-a.ie.ehealthafrica.org/geoserver/eHA_db/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=eHA_db:sv_state_pop_estimate&outputFormat=csv")
+  print(data)
+}
