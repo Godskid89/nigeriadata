@@ -8,12 +8,12 @@ ward_admin_boundaries <- function() {
 # ---- LGA Admin boundaries
 lga_admin_boundaries <- function() {
   data <- read.csv("https://gis-a.ie.ehealthafrica.org/geoserver/eHA_db/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=eHA_db:sv_local_government_areas&outputFormat=csv")
-  print(data)
+  return(data)
 }
 
 # ----  State Administartive boundaries data
 state_admin_boundaries <- function() {
   data <- read.csv("https://gis-a.ie.ehealthafrica.org/geoserver/eHA_db/ows?service=WFS&version=1.0.0&request=GetFeature&typeName=eHA_db:sv_states&outputFormat=csv")
-  print(data)
+  return(data)
 }
 
