@@ -7,6 +7,8 @@ about Nigeria demography and settlements. It include both the spatial and Non sp
 To get started, run:
 
 ```install.packages("devtools")``` <br>
+```library(devtools)```
 ```install_github("Godskid89/nigeriadata")```
+```library(nigeriadata)```
 
 It is still a work in progress!
