@@ -18,7 +18,7 @@ farmlands()
   \item{category}{Category of agricultural activities on individual farmlands}
   \item{lga_code}{Local Government Area Code}
   \item{lga_name}{Local Government Area (LGA) Name}
-  \item{state_code}{Two letters Abreviation State Code}
+  \item{state_code}{Two letters abreviation State Code}
   \item{state_name}{State Name}
 }
 }
